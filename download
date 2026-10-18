@@ -1,0 +1,13 @@
+# Локальные окружения и служебные файлы
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+# Конфигурация и секреты
+.env
+.env.*
+*.key
+# Локальные выгрузки (не для публикации)
+raw-data/
+local-data/
